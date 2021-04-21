@@ -1,0 +1,11 @@
+{
+  'theme-color': 'DarkAmber',
+  'title-label': 'Pocket Manager',
+  'section-label': ["Track spendings", "View record", "export"],
+  'text-fields-labels': ["Today's pocket", "Money spent"],
+  'button-label': ["Count", "Save", "Quit", "View"],
+  'file_path': './',
+  'file_name': 'PocketManager-data',
+  'file_extension': '.json'
+
+ }
